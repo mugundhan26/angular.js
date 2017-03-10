@@ -13,7 +13,7 @@ style of application architecture.
 
 Advantages of Components:
 - simpler configuration than plain directives
-- promote sane defaults and best practices
+- promote same defaults and best practices
 - optimized for component-based architecture
 - writing component directives will make it easier to upgrade to Angular
 
